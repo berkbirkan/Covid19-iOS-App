@@ -1,0 +1,20 @@
+PODS:
+  - SCLAlertView (0.8)
+  - UICircularProgressRing (4.0.0)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - UICircularProgressRing (= 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - SCLAlertView
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  UICircularProgressRing: dd448c3ff2176e3b2ba3f100f329c489a5389571
+
+PODFILE CHECKSUM: d47c5c91e6624854e384bd51362a13dfa7387153
+
+COCOAPODS: 1.9.1
